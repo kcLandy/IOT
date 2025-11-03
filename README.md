@@ -106,6 +106,6 @@ L’ensemble du système repose sur deux microcontrôleurs ESP32 :
 ---
 
 ## 🧾 Auteurs
-Projet réalisé dans le cadre d’un **projet IoT / robotique embarquée**.  
-**Équipe :** _(à compléter)_  
+Projet réalisé dans le cadre d’un **projet IoT en 2ème année de Bachelor**.  
+**Équipe :** _(Dylan Arlin, Loic Cano et Benjamin Ferrandez)_  
 **Année :** 2025  
